@@ -36,7 +36,7 @@ cheap USB optical mouse. The trade-off is that it's not as accurate.
 - Place the mouse's sensor against the screen you want to test; make sure it
   can't move, either by laying the monitor flat so the mouse can rest on it
   without sliding, or by securing the mouse in place somehow.
-- Run this program using `cargo run`. Press any key to exit.
+- Run this program using `cargo run -r`. Press any key to exit.
 
 [Install Rust]: https://rust-lang.org/tools/install/
 [Nix]: https://nixos.org/
